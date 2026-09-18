@@ -55,13 +55,13 @@
 ```yaml
 ╭─ bahy@its-surabaya ────────────────────────────────────────────────────────────╮
 │                                                                                │
-│  🎓 Degree          : Information Technology @ Sepuluh Nopember (ITS)          │
-│  📍 Origin / Base   : East Java, Indonesia 🇮🇩                                 │
-│  🏆 Recent Honor    : 3rd Place National Web Dev Competition @ Community.id   │
-│  🚀 Core Focus      : Fullstack Web, Smart Systems & Scalable Architecture    │
-│  🛠️ Active Stack    : Laravel, Next.js, React Native, TypeScript, PostgreSQL  │
-│  📜 Certifications  : UI/UX (Woosong Univ, KR) • Cybersecurity (UGM OmahTI)    │
-│  🍵 Fuel            : Iced Matcha & Specialty Coffee                           │
+│  🎓 Degree         : Information Technology @ Sepuluh Nopember (ITS)           │
+│  📍 Origin / Base  : East Java, Indonesia 🇮🇩                                 │
+│  🏆 Recent Honor   : 3rd Place National Web Dev Competition @ Community.id     │
+│  🚀 Core Focus     : Fullstack Web, Smart Systems & Scalable Architecture      │
+│  🛠️ Active Stack   : Laravel, Next.js, React Native, TypeScript, PostgreSQL    │
+│  📜 Certifications : UI/UX (Woosong Univ, KR) • Cybersecurity (UGM OmahTI)     │
+│  🍵 Fuel           : Iced Matcha & Specialty Coffee                            │
 │                                                                                │
 ╰────────────────────────────────────────────────────────────────────────────────╯
 ```
