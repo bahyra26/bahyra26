@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Dynamic Waving Header Banner in Sage Green Gradient -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:354F52,50:52796F,100:84A98C&height=200&section=header&text=BAHY%20RACHMANDIKA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Information%20Technology%20@%20ITS%20Surabaya&descAlignY=56&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:354F52,50:52796F,100:84A98C&height=200&section=header&text=BAHY&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Information%20Technology%20@%20ITS%20Surabaya&descAlignY=56&descAlign=50" width="100%" />
 
   <!-- Animated Greeting & Typing Subtitle -->
   <h3>
